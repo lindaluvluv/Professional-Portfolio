@@ -158,6 +158,13 @@ opacity: 1.0;
     color: #4a4a4a;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
-    word-spacing: 20em;
+    word-spacing: 10em;
     margin-left: 150px;
+}
+.list{
+  color: #4a4a4a;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  word-spacing: 30em;
+  margin-left: 150px;
 }
